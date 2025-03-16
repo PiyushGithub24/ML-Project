@@ -1,0 +1,18 @@
+<!-- <h1>Welcome to the home page</h1> -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home - Student Performance Predictor</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/css/bootstrap.min.css">
+</head>
+<body class="d-flex justify-content-center align-items-center vh-100 bg-light">
+    <div class="text-center">
+        <h1 class="text-primary mb-4">Welcome to the Student Performance Predictor</h1>
+        <p class="lead">Click below to predict student exam performance.</p>
+        <a href="{{ url_for('predict_datapoint') }}" class="btn btn-success btn-lg">Predict Performance</a>
+    </div>
+</body>
+</html>
