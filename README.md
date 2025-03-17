@@ -69,7 +69,6 @@ The model is deployed using **Render**.
    ```
 
 ## Author
-Your Name
 Piyush Kumar
 
 ## Credits
