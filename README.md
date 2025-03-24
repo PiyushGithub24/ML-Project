@@ -71,8 +71,8 @@ The model is deployed using **Render**.
 ## Author
 Piyush Kumar
 
-## Credits
-This project was inspired by Krish Naik's tutorials on machine learning and deployment. His content provided valuable insights into model selection and deployment strategies.i learned various concepts while implementing this end to end project..
+<--## Credits
+This project was inspired by Krish Naik's tutorials on machine learning and deployment. His content provided valuable insights into model selection and deployment strategies.i learned various concepts while implementing this end to end project.. /-->
 
 ---
 This project provides an efficient and reliable way to predict students' math performance based on key demographic and academic factors.
